@@ -1,0 +1,24 @@
+({
+    Canoe: (
+        bone0: (
+            offset: (-6.5, -15.5, 0.0),
+            phys_offset: (0.0, 0.0, 0.0),
+            central: ("canoe.structure"),
+        ),
+        bone1: (
+            offset: (0.0, 0.0, 0.0),
+            phys_offset: (0.0, 0.0, 0.0),
+            central: ("empty"),
+        ),
+        bone2: (
+            offset: (0.0, 0.0, 0.0),
+            phys_offset: (0.0, 0.0, 0.0),
+            central: ("empty"),
+        ),
+        bone3: (
+            offset: (-1.5, -6.0, -5.0),
+            phys_offset: (0.0, 0.0, 0.0),
+            central: ("empty"),
+        ),
+    ),
+})

@@ -1,0 +1,3 @@
+({
+    Simple("common.items.weapons.tool.paddle"): "voxel.weapon.tool.paddle",
+})

@@ -8,4 +8,3 @@ modules = []
 # Plugins required by this plugin (currently unsupported, keep this empty)
 dependencies = []
 
-#assets = ["common/items/weapons/tool/paddle.ron", "voxygen/voxel/weapon/tool/paddle.vox", "voxygen/voxel/biped_weapon_manifest.ron", "voxygen/voxel/item_drop_manifest.ron", "voxygen/item_image_manifest.ron" ]

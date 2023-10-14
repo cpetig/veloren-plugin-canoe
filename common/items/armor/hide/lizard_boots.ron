@@ -1,0 +1,11 @@
+ItemDef(
+    name: "Lizardskin Boots",
+    description: "Mostly a test.",
+    kind: Armor((
+        kind: Foot,
+        stats: FromSet("Orichalcum"),
+    )),
+    quality: Legendary,
+    tags: [
+    ],
+)

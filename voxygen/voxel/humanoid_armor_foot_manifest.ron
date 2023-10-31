@@ -5,7 +5,7 @@
     ),
     map: {
         "common.items.armor.hide.lizard_boots": (
-            vox_spec: ("npc.lizardman.male.foot_r", (-2.5, -3.5, -2.0)),
+            vox_spec: ("npc.lizardman.male", (-2.5, -3.5, -2.0), 2),
             color: None
         )
     }

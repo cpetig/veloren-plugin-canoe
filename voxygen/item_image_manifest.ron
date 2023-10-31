@@ -4,7 +4,7 @@
         (0.0, 0.0, 0.0), (-135.0, 90.0, 0.0), 1.1,
     ),
     Simple("common.items.armor.hide.lizard_boots"): VoxTrans(
-        "voxel.npc.lizardman.male.foot_r",
-        (0.0, 0.0, 0.0), (-120.0, 210.0, 15.0), 1.1,
+        "voxel.npc.lizardman.male",
+        (0.0, 0.0, 0.0), (-120.0, 210.0, 15.0), 1.1, 2,
     ),
 })

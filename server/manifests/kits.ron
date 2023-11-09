@@ -1,0 +1,6 @@
+({
+    "mytest": [
+        (Item("common.items.armor.hide.lizard_boots"),1),
+        (Item("common.items.weapons.tool.paddle"),1),
+    ]
+})

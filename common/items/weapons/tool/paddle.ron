@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Paddle",
-    description: "For use within a canoe.",
+    legacy_name: "Paddle",
+    legacy_description: "For use within a canoe.",
     kind: Tool((
         kind: Farming,
         hands: Two,

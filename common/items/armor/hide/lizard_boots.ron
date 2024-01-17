@@ -1,6 +1,6 @@
 ItemDef(
-    name: "Lizardskin Boots",
-    description: "Mostly a test.",
+    legacy_name: "Lizardskin Boots",
+    legacy_description: "Mostly a test.",
     kind: Armor((
         kind: Foot,
         stats: FromSet("Orichalcum"),
